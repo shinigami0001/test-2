@@ -53,6 +53,7 @@ h2 {
 blockquote {
 	position: absolute;
 	top: 230px;
+	font-size: 125%;
 }
 
 .author {
